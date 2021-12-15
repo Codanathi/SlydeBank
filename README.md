@@ -1,0 +1,2 @@
+# SlydeBank
+Digital-banking-app
